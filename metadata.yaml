@@ -1,5 +1,8 @@
 _repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-No-750-May-11-1878_63533
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63533-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5277
     wikipedia: https://en.wikipedia.org/wiki/William_Chambers_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63533#Chambers-s-Journal-of-Popular-Literature-Science-and-Art-No-750-May-11-1878
 gutenberg_issued: '2020-10-23'
 gutenberg_type: Text
 identifiers:
